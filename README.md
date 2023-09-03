@@ -1,5 +1,5 @@
 ### Hi there 👋, is Laam
-#### Just a student
+
 I made this project just for fun, it can help me practice and review my code which I was learn in school.
 
 Skills: I'm **Noob**!
